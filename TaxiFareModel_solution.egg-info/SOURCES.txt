@@ -1,0 +1,12 @@
+setup.py
+TaxiFareModel_solution/__init__.py
+TaxiFareModel_solution/data.py
+TaxiFareModel_solution/encoders.py
+TaxiFareModel_solution/gcp.py
+TaxiFareModel_solution/trainer.py
+TaxiFareModel_solution/utils.py
+TaxiFareModel_solution.egg-info/PKG-INFO
+TaxiFareModel_solution.egg-info/SOURCES.txt
+TaxiFareModel_solution.egg-info/dependency_links.txt
+TaxiFareModel_solution.egg-info/requires.txt
+TaxiFareModel_solution.egg-info/top_level.txt
